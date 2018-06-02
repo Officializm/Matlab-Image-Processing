@@ -1,5 +1,5 @@
 %===============================================
-%@author Recep Çetinkaya
+%@author Recep Ã‡etinkaya
 %Object Recognition According to Size and Color.
 %===============================================
 ard = arduino('COM6', 'Uno', 'Libraries', 'Servo');%create ard str to connect arduino
